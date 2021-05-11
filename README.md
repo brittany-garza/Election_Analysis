@@ -1,4 +1,4 @@
-### Election Analysis
+# Election Analysis
 
 ## 1. Overview of Election Audit: 
 	With this challenge, I will be providing a breakdown of each county. 
