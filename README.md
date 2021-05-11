@@ -1,10 +1,10 @@
-## Election_Analysis
+### Election Analysis
 
-# 1. Overview of Election Audit: 
+## 1. Overview of Election Audit: 
 	With this challenge, I will be providing a breakdown of each county. 
 	This will provide insight on which county had the most voter participation.   
 
-# 2. Election-Audit Results:  
+## 2. Election-Audit Results:  
 	• How many votes were cast in this congressional election?
 	
 	The total number of votes in the election is 369,711. 
@@ -42,6 +42,8 @@
 	Information on the candidates and votes is storaged in a dictonary called candidate_votes. 	
 	The names of the candidates is added to a list candidate_options while the csv file is read through.
 	The code tracks the amount of times a candidates name is mentioned then stored in the dictonary. 
+	
+![Candidate_count_if](https://user-images.githubusercontent.com/82127584/117897883-53bb9c80-b289-11eb-9286-d0a19c223bd6.PNG)
 		
 
 	• Which candidate won the election, what was their vote count, 
@@ -50,7 +52,7 @@
 	The winner of the election is Diana Degette with a total of 272,892 votes and a winning percentage 73.8%
 
 
-# 3. Election-Audit Summary: 
+## 3. Election-Audit Summary: 
 
 	Since counties are divided by precincts, the script can be modified to 
 	show voter turnout within each precinct. This will give better insight on which areas 
